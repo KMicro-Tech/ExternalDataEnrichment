@@ -1,5 +1,4 @@
-﻿NTSTATUS_codes,Description
-0x00000000,The operation completed successfully.
+﻿0x00000000,The operation completed successfully.
 0x00000000,The caller specified WaitAny for WaitType and one of the dispatcher objects in the Object array has been set to the signaled state.
 0x00000001,The caller specified WaitAny for WaitType and one of the dispatcher objects in the Object array has been set to the signaled state.
 0x00000002,The caller specified WaitAny for WaitType and one of the dispatcher objects in the Object array has been set to the signaled state.
